@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Pawan U - Backend and AI Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0f2027"/>
+      <stop offset="0.5" stop-color="#203a43"/>
+      <stop offset="1" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#36BCF7" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#36BCF7"/>
+      <stop offset="1" stop-color="#36BCF7" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .name { font: 700 68px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #ffffff; letter-spacing: 2px; opacity: 0; animation: fadeIn 1.2s ease-out 0.2s forwards; }
+      .role { font: 500 24px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #36BCF7; letter-spacing: 4px; opacity: 0; animation: fadeIn 1.2s ease-out 0.9s forwards; }
+      .tags { font: 400 15px 'Courier New', monospace; fill: #9fb8c4; opacity: 0; animation: fadeIn 1.2s ease-out 1.6s forwards; }
+      .line { opacity: 0; animation: fadeIn 1.2s ease-out 1.2s forwards; }
+      @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#bg)"/>
+
+  <!-- floating particles -->
+  <g fill="#36BCF7" opacity="0.35">
+    <circle cx="120" cy="60" r="3"><animate attributeName="cy" values="60;40;60" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="260" cy="170" r="2"><animate attributeName="cy" values="170;150;170" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="430" cy="45" r="2.5"><animate attributeName="cy" values="45;65;45" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="780" cy="180" r="3"><animate attributeName="cy" values="180;160;180" dur="6.5s" repeatCount="indefinite"/></circle>
+    <circle cx="950" cy="55" r="2"><animate attributeName="cy" values="55;75;55" dur="5.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1090" cy="150" r="3"><animate attributeName="cy" values="150;130;150" dur="7s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <text class="name" x="600" y="100" text-anchor="middle">Pawan U</text>
+  <rect class="line" x="400" y="115" width="400" height="2" fill="url(#accent)"/>
+  <text class="role" x="600" y="152" text-anchor="middle">BACKEND &amp; AI ENGINEER</text>
+  <text class="tags" x="600" y="188" text-anchor="middle">Java  |  Spring Boot  |  Python  |  FastAPI  |  LangGraph  |  RAG</text>
+</svg>
