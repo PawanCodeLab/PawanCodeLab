@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=130&section=header" width="100%" alt=""/>
-
 # Pawan U
 
 ### Backend & AI Engineer
@@ -130,24 +128,11 @@ A multi-tenant greenhouse-gas emissions accounting platform with organization-le
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PawanCodeLab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanCodeLab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-
-</div>
-
----
-
 <div align="center">
 
 ### Let's connect
 
 <a href="mailto:pawan16072@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-1F2937?style=flat-square&logo=gmail&logoColor=white" alt="Email me"/></a>
 <a href="https://www.linkedin.com/in/u-pawan/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=90&section=footer" width="100%" alt=""/>
 
 </div>
