@@ -132,12 +132,12 @@ A multi-tenant greenhouse-gas emissions accounting platform with organization-le
 
 ## GitHub Activity
 
-<div align="center">
+## <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PawanCodeLab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanCodeLab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+## <img height="170" src="https://github-readme-stats.vercel.app/api?username=PawanCodeLab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+## <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanCodeLab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 
-</div>
+## </div>
 
 ---
 
